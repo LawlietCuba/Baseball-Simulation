@@ -1,0 +1,31 @@
+ID,Equipo,Nombre,Edad,Experiencia,Posiciones,Efectividad_Posiciones,Promedio_Bateo,Juegos_Ganados,Juegos_Perdidos,Zurdo,Promedio_Carreras_Limpias
+3af63de8-5a31-4491-9a2f-1563f7517dcd,Equipo_A,Jugador_3af63d,29,13,Pitcher,Pitcher: 0.9,0.217,1,3,False,1.9
+bbc9a469-0bd6-49c6-9f22-3c84d7b26f78,Equipo_A,Jugador_bbc9a4,34,15,Catcher,Catcher: 0.79,0.244,,,,
+80976490-af30-45b6-8750-f8c9d5f0550c,Equipo_A,Jugador_809764,32,3,First_Base,First_Base: 0.87,0.328,,,,
+0070e7fd-d6df-47ab-b06b-95182db28ba4,Equipo_A,Jugador_0070e7,40,13,Second_Base,Second_Base: 0.56,0.233,,,,
+6758cd91-d46f-40d7-b566-ab7ae07e7303,Equipo_A,Jugador_6758cd,39,13,Third_Base,Third_Base: 0.61,0.236,,,,
+99a43560-d06f-457f-a82c-6ae9193a9021,Equipo_A,Jugador_99a435,40,15,Shortstop,Shortstop: 0.68,0.323,,,,
+47309859-119d-4f3c-8a81-904be5356466,Equipo_A,Jugador_473098,32,5,Left_Field,Left_Field: 0.5,0.227,,,,
+4e51f7c6-3fca-4fe5-9520-1f45e7609f55,Equipo_A,Jugador_4e51f7,29,20,Center_Field,Center_Field: 0.72,0.315,,,,
+51b0feca-b7d5-42d5-b349-31ce37e88c76,Equipo_A,Jugador_51b0fe,30,16,Right_Field,Right_Field: 0.52,0.263,,,,
+c9f6c191-fc91-47f2-a735-5b629d99f550,Equipo_A,Jugador_c9f6c1,37,19,Catcher; Center_Field,Catcher: 0.73; Center_Field: 0.99,0.219,,,,
+0fdc6194-99b1-49dd-8a07-d366f8019bfd,Equipo_A,Jugador_0fdc61,29,14,Pitcher; First_Base,Pitcher: 0.61; First_Base: 0.96,0.346,7,2,False,3.66
+f58603ca-d2d9-4239-9609-6289a92fa8d7,Equipo_A,Jugador_f58603,32,3,First_Base,First_Base: 0.84,0.212,,,,
+cee48240-a643-46cf-9447-97f0d7d53bbb,Equipo_A,Jugador_cee482,38,15,Shortstop; Second_Base; Center_Field,Shortstop: 0.54; Second_Base: 0.6; Center_Field: 0.66,0.306,,,,
+51f1cc09-dfa8-4ca2-b067-9ba5a80cd90c,Equipo_A,Jugador_51f1cc,39,5,Third_Base,Third_Base: 0.73,0.295,,,,
+1d90e999-126d-4e58-80fe-7e98cd2941f6,Equipo_A,Jugador_1d90e9,35,15,Right_Field,Right_Field: 0.55,0.31,,,,
+7252a376-4fe4-486e-911a-3b56185f4729,Equipo_B,Jugador_7252a3,26,1,Pitcher,Pitcher: 0.89,0.341,0,1,True,4.38
+518a8039-956c-49a5-b0a8-f2a9c7cb25b7,Equipo_B,Jugador_518a80,35,7,Catcher,Catcher: 0.98,0.285,,,,
+e5157ec3-241d-4732-8bb0-191893695c39,Equipo_B,Jugador_e5157e,20,9,First_Base,First_Base: 0.55,0.225,,,,
+a1deaf36-d9fc-45e1-9c21-aaa01be08429,Equipo_B,Jugador_a1deaf,31,19,Second_Base,Second_Base: 0.69,0.252,,,,
+8b5e510c-b2bc-4ba1-b3ec-2cf7fe4130a2,Equipo_B,Jugador_8b5e51,33,6,Third_Base,Third_Base: 0.64,0.303,,,,
+2fe796ab-36d0-4085-83a7-3783e45b39cc,Equipo_B,Jugador_2fe796,30,12,Shortstop,Shortstop: 0.69,0.266,,,,
+579a1cbd-9b1d-47f1-872d-85eb07494da7,Equipo_B,Jugador_579a1c,38,7,Left_Field,Left_Field: 0.58,0.347,,,,
+edc8fc2e-2756-4c65-9f2e-155cde7dd71f,Equipo_B,Jugador_edc8fc,26,18,Center_Field,Center_Field: 0.68,0.285,,,,
+a3328298-fe5f-4d65-aa90-7406df6242b8,Equipo_B,Jugador_a33282,40,17,Right_Field,Right_Field: 1.0,0.34,,,,
+51fc51a2-e575-4b7e-834d-ea6f86a7bca8,Equipo_B,Jugador_51fc51,34,6,Right_Field; Second_Base,Right_Field: 0.99; Second_Base: 0.82,0.329,,,,
+4d63954b-ad79-4b0c-9a42-3756622f4d36,Equipo_B,Jugador_4d6395,34,17,Catcher; Pitcher,Catcher: 0.72; Pitcher: 0.72,0.219,10,3,False,4.12
+73206489-aced-417a-8e5f-75499b06d9d6,Equipo_B,Jugador_732064,31,3,Shortstop,Shortstop: 0.96,0.272,,,,
+c4018ac1-13dd-4944-80b2-972d5ce4475e,Equipo_B,Jugador_c4018a,18,12,Center_Field; First_Base,Center_Field: 0.5; First_Base: 0.78,0.211,,,,
+acf1d1ea-82d8-48a9-a662-fd20071445d2,Equipo_B,Jugador_acf1d1,22,10,Shortstop; Third_Base; Pitcher,Shortstop: 0.81; Third_Base: 0.73; Pitcher: 0.74,0.247,5,7,True,1.97
+9560b706-da73-4b9c-bb20-be68e2b6f16d,Equipo_B,Jugador_9560b7,20,19,Shortstop,Shortstop: 0.68,0.267,,,,
